@@ -18,8 +18,8 @@ email: jacoby.david@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Dave writes code. Sometimes this means he learns something. 
     He'll probably write it up here.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jacoby.github.io/blog/"
 twitter_username: jacobydave
 github_username:  jacoby
 
